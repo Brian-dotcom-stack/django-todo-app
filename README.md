@@ -2,6 +2,9 @@
 
 This is a simple to-do list web application built with Django, following the [Real Python tutorial](https://realpython.com/django-todo-lists/#demo).
 
+![image](https://github.com/user-attachments/assets/3053bd95-9c46-4f3e-aa0c-14f66a79a13f)
+
+
 ## Features
 
 - Add tasks
