@@ -15,7 +15,7 @@ This is a simple to-do list web application built with Django, following the [Re
 ## Requirements
 
 - Python 3.x
-- Django 4.x (or the version you used)
+- Django 4.x 
 
 ## Installation
 
